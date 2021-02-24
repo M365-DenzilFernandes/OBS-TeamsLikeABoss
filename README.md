@@ -1,7 +1,7 @@
 # OBS-TeamsLikeABoss
 🎥 Take your Microsoft Teams Meetings to the next level. (OBS, Streamdeck, ATEM Mini and more)
 
-Download and Import [TeamsLikeABoss](https://github.com/M365-DenzilFernandes/OBS-TeamsLikeABoss/blob/main/OBS%20Scenes/Teams_Like_a_Boss.json)
+Download and Import [TeamsLikeABoss](https://github.com/M365-DenzilFernandes/OBS-TeamsLikeABoss/raw/main/OBS%20Scenes/Teams_Like_a_Boss.zip)
 
 ###### 📺 Watch Michel Bouman and myself provide a demonstration how to combine their tools to provide a more engaging meeting experience.
  <a href="http://www.youtube.com/watch?feature=player_embedded&v=d07WeYM8PU" target="_blank"><img src="https://i.ytimg.com/vi/d07WeYM8PUc/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAFlJfXpxe1bKV0wWJtDRo56GCHLA" 
