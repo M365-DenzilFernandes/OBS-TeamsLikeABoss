@@ -57,6 +57,3 @@ alt="Teams Like a Boss" border="10" /></a>
 
 -------------
 
-<img src="https://github.com/M365-DenzilFernandes/OBS-TeamsLikeABoss/blob/main/OBS%20Scenes/OBS-TeamsLikeABoss-14.PNG" style="max-width:70%;">
-
--------------
