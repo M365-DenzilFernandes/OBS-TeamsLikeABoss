@@ -5,8 +5,9 @@
 * Oct 2021 Updated [TeamsLikeABoss2](https://github.com/M365-DenzilFernandes/OBS-TeamsLikeABoss/blob/main/OBS%20Scenes/TeamsLikeABoss2.zip?raw=true)
 
 ###### 📺 Watch New Teams Like A Boss Scene Collection - Demonstration.
- <a href="https://youtu.be/RaF1-SYbbF4" target="_blank"><img src="https://i.ytimg.com/an_webp/RaF1-SYbbF4/mqdefault_6s.webp?du=3000&sqp=CLi2wosG&rs=AOn4CLAeLbVuz0Q-vaYR0A7JtoHHFGrnug" 
+ <a href="https://youtu.be/RaF1-SYbbF4" target="_blank"><img src="https://i9.ytimg.com/vi_webp/RaF1-SYbbF4/mqdefault.webp?v=616cbba4&sqp=CPDX24sG&rs=AOn4CLBqYhlOrGG3ECekWrdf6YIVd9fI0w" 
 alt="Teams Like a Boss" border="10" /></a>
+
 ###### 📺 Watch Michel Bouman and myself provide a demonstration how to combine various tools to provide a more engaging meeting experience.
  <a href="https://www.youtube.com/watch?v=d07WeYM8PUc" target="_blank"><img src="https://i.ytimg.com/vi/d07WeYM8PUc/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAFlJfXpxe1bKV0wWJtDRo56GCHLA" 
 alt="Teams Like a Boss" border="10" /></a>
